@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Wow",
+        "terms": [
+            "a",
+            "c",
+            "x",
+            "s"
+        ]
+    },
+    {
+        "name": "Math",
+        "terms": [
+            "nth term test",
+            "geo series test"
+        ]
+    },
+    {
+        "name": "Physics",
+        "terms": [
+            "theromodynamics",
+            "electricity",
+            "magnetism"
+        ]
+    }
+]
