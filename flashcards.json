@@ -1,26 +1,51 @@
 [
     {
-        "name": "Wow",
-        "terms": [
-            "a",
-            "c",
-            "x",
-            "s"
-        ]
-    },
-    {
-        "name": "Math",
-        "terms": [
-            "nth term test",
-            "geo series test"
-        ]
-    },
-    {
         "name": "Physics",
         "terms": [
-            "theromodynamics",
-            "electricity",
-            "magnetism"
+            "vector",
+            "scalar",
+            "speed",
+            "velocity",
+            "kinematics",
+            "acceleration",
+            "displacement",
+            "Newton's 1st Law",
+            "Newton's 2nd Law",
+            "Newton's 3rd Law",
+            "weight",
+            "mass",
+            "contact force"
+        ]
+    },
+    {
+        "name": "Calculus (Theorems)",
+        "terms": [
+            "Squeeze Theorem",
+            "Intermediate Value Theorem",
+            "Extreme Value Theorem",
+            "Mean Value Theorem",
+            "L' H\u00f4pital's Rule",
+            "First Fundamental Theorem of Calculus",
+            "Second Fundamental Theorem of Calculus"
+        ]
+    },
+    {
+        "name": "Gov - Unit 2",
+        "terms": [
+            "Legislative Branch",
+            "House of Representatives",
+            "Senate",
+            "bicameral",
+            "filibuster",
+            "Judicial Branch",
+            "stare decisis",
+            "Supreme Court",
+            "Executive Branch",
+            "veto",
+            "executive order",
+            "pork-barrel legislation",
+            "logrolling",
+            "Bureaucracy"
         ]
     }
 ]

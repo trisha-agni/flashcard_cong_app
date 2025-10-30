@@ -1,0 +1,621 @@
+[
+  {
+    "timestamp": "2025-10-25T22:44:48.602089",
+    "test_type": "FRQ",
+    "card_name": "Government",
+    "length": "15 min",
+    "responses": {
+      "FRQ_1": "system of checks and balances",
+      "FRQ_2": "",
+      "FRQ_3": "",
+      "FRQ_4": "abababb",
+      "FRQ_5": ""
+    },
+    "parsed_mcqs": [],
+    "score": null,
+    "max_score": null,
+    "percent": 40.0
+  },
+  {
+    "timestamp": "2025-10-26T00:27:36.814045",
+    "test_type": "MCQ",
+    "card_name": "Government",
+    "length": "1 hour",
+    "responses": {
+      "1": "C",
+      "2": "B",
+      "3": "A",
+      "4": "A",
+      "5": "A"
+    },
+    "parsed_mcqs": [
+      {
+        "index": 1,
+        "display": "1. Which of the following is responsible for interpreting the Constitution and ensuring it is upheld by the other branches of government?",
+        "options": {
+          "A": "The Legislative Branch, through the House and Senate.",
+          "B": "The Executive Branch, through the President.",
+          "C": "The Judicial Branch, through the Supreme Court.",
+          "D": "The Constitution itself, through its own provisions."
+        },
+        "full_text": "1. Which of the following is responsible for interpreting the Constitution and ensuring it is upheld by the other branches of government?\nA. The Legislative Branch, through the House and Senate.\nB. The Executive Branch, through the President.\nC. The Judicial Branch, through the Supreme Court.\nD. The Constitution itself, through its own provisions.",
+        "answer": "C"
+      },
+      {
+        "index": 2,
+        "display": "2. According to Federalist 10, what is the primary advantage of a large republic in preventing the tyranny of the majority?",
+        "options": {
+          "A": "It allows for more direct democracy and greater citizen participation.",
+          "B": "It enables the representation of a diverse range of interests and factions.",
+          "C": "It concentrates power in the hands of a few, wise leaders.",
+          "D": "It eliminates the need for political parties and interest groups."
+        },
+        "full_text": "2. According to Federalist 10, what is the primary advantage of a large republic in preventing the tyranny of the majority?\nA. It allows for more direct democracy and greater citizen participation.\nB. It enables the representation of a diverse range of interests and factions.\nC. It concentrates power in the hands of a few, wise leaders.\nD. It eliminates the need for political parties and interest groups.",
+        "answer": "B"
+      },
+      {
+        "index": 3,
+        "display": "3. In Brutus 1, what is the main concern expressed about the proposed Constitution?",
+        "options": {
+          "A": "That it does not provide enough power to the federal government.",
+          "B": "That it fails to protect individual rights and liberties.",
+          "C": "That it creates an imbalance of power among the branches of government.",
+          "D": "That it does not adequately represent the interests of smaller states."
+        },
+        "full_text": "3. In Brutus 1, what is the main concern expressed about the proposed Constitution?\nA. That it does not provide enough power to the federal government.\nB. That it fails to protect individual rights and liberties.\nC. That it creates an imbalance of power among the branches of government.\nD. That it does not adequately represent the interests of smaller states.",
+        "answer": "B"
+      },
+      {
+        "index": 4,
+        "display": "4. What is the primary role of the Legislative Branch, composed of the House and Senate?",
+        "options": {
+          "A": "To enforce the laws and administer the government.",
+          "B": "To interpret the laws and resolve disputes.",
+          "C": "To make the laws and approve presidential appointments.",
+          "D": "To command the military and conduct foreign policy."
+        },
+        "full_text": "4. What is the primary role of the Legislative Branch, composed of the House and Senate?\nA. To enforce the laws and administer the government.\nB. To interpret the laws and resolve disputes.\nC. To make the laws and approve presidential appointments.\nD. To command the military and conduct foreign policy.",
+        "answer": "C"
+      },
+      {
+        "index": 5,
+        "display": "5. How do the branches of government, as established by the Constitution, contribute to political socialization?",
+        "options": {
+          "A": "By providing a framework for citizen participation and engagement.",
+          "B": "By limiting the power of government and protecting individual rights.",
+          "C": "By promoting a sense of national identity and shared values.",
+          "D": "By creating a system of checks and balances to prevent tyranny."
+        },
+        "full_text": "5. How do the branches of government, as established by the Constitution, contribute to political socialization?\nA. By providing a framework for citizen participation and engagement.\nB. By limiting the power of government and protecting individual rights.\nC. By promoting a sense of national identity and shared values.\nD. By creating a system of checks and balances to prevent tyranny.",
+        "answer": "D"
+      }
+    ],
+    "score": 2,
+    "max_score": 5,
+    "percent": 40.0
+  },
+  {
+    "timestamp": "2025-10-26T00:29:16.795286",
+    "test_type": "FRQ",
+    "card_name": "Government",
+    "length": "15 min",
+    "responses": {
+      "FRQ_1": "the legislative branch makes laws. each house has different roles.",
+      "FRQ_2": "it allows them to understand the role each branch plays",
+      "FRQ_3": "",
+      "FRQ_4": "abababa",
+      "FRQ_5": "123445"
+    },
+    "parsed_mcqs": [],
+    "score": 2,
+    "max_score": 25,
+    "percent": 8.0
+  },
+  {
+    "timestamp": "2025-10-28T01:32:11.883153",
+    "test_type": "MCQ",
+    "card_name": "Government",
+    "length": "15 min",
+    "responses": {
+      "1": "B",
+      "2": "D",
+      "3": "C",
+      "4": "B",
+      "5": "C"
+    },
+    "parsed_mcqs": [
+      {
+        "index": 1,
+        "display": "1. Which of the branches of government is responsible for interpreting the constitution and ensuring that laws are in line with the document's provisions?",
+        "options": {
+          "A": "The legislative branch, which includes the house and senate.",
+          "B": "The judicial branch, which is composed of the supreme court and lower courts.",
+          "C": "The executive branch, which is headed by the president.",
+          "D": "The house, which has the power to impeach federal officials."
+        },
+        "full_text": "1. Which of the branches of government is responsible for interpreting the constitution and ensuring that laws are in line with the document's provisions?\nA. The legislative branch, which includes the house and senate.\nB. The judicial branch, which is composed of the supreme court and lower courts.\nC. The executive branch, which is headed by the president.\nD. The house, which has the power to impeach federal officials.",
+        "answer": "B"
+      },
+      {
+        "index": 2,
+        "display": "2. According to Federalist 10, what is the primary advantage of a large republic in preventing the tyranny of the majority?",
+        "options": {
+          "A": "It allows for more direct participation by citizens in the political process.",
+          "B": "It provides a greater diversity of interests and factions, making it harder for any one group to dominate.",
+          "C": "It gives more power to the senate, which can check the house.",
+          "D": "It eliminates the need for the judicial branch."
+        },
+        "full_text": "2. According to Federalist 10, what is the primary advantage of a large republic in preventing the tyranny of the majority?\nA. It allows for more direct participation by citizens in the political process.\nB. It provides a greater diversity of interests and factions, making it harder for any one group to dominate.\nC. It gives more power to the senate, which can check the house.\nD. It eliminates the need for the judicial branch.",
+        "answer": "B"
+      },
+      {
+        "index": 3,
+        "display": "3. In Brutus 1, the author expresses concern about the potential for the federal government to become too powerful, particularly with regards to which branch?",
+        "options": {
+          "A": "The legislative branch, which has the power to declare war and regulate commerce.",
+          "B": "The executive branch, which has the power to command the military and negotiate treaties.",
+          "C": "The judicial branch, which has the power to interpret laws and decide cases.",
+          "D": "The house, which has the power to initiate revenue bills."
+        },
+        "full_text": "3. In Brutus 1, the author expresses concern about the potential for the federal government to become too powerful, particularly with regards to which branch?\nA. The legislative branch, which has the power to declare war and regulate commerce.\nB. The executive branch, which has the power to command the military and negotiate treaties.\nC. The judicial branch, which has the power to interpret laws and decide cases.\nD. The house, which has the power to initiate revenue bills.",
+        "answer": "B"
+      },
+      {
+        "index": 4,
+        "display": "4. What is the primary role of the senate in the legislative branch, as established by the constitution?",
+        "options": {
+          "A": "To represent the interests of the people, with each member elected by the population of their state.",
+          "B": "To provide advice and consent on presidential nominations, including supreme court justices.",
+          "C": "To initiate revenue bills, which are then sent to the house for approval.",
+          "D": "To try impeachments, which are initiated by the house."
+        },
+        "full_text": "4. What is the primary role of the senate in the legislative branch, as established by the constitution?\nA. To represent the interests of the people, with each member elected by the population of their state.\nB. To provide advice and consent on presidential nominations, including supreme court justices.\nC. To initiate revenue bills, which are then sent to the house for approval.\nD. To try impeachments, which are initiated by the house.",
+        "answer": "B"
+      },
+      {
+        "index": 5,
+        "display": "5. How do the branches of government, as established by the constitution, contribute to the process of political socialization?",
+        "options": {
+          "A": "By providing a framework for civic education and engagement.",
+          "B": "By ensuring that power is divided and balanced, preventing any one branch from dominating.",
+          "C": "By allowing citizens to participate directly in the political process through elections and protests.",
+          "D": "By limiting the role of the federal government in favor of state and local authorities."
+        },
+        "full_text": "5. How do the branches of government, as established by the constitution, contribute to the process of political socialization?\nA. By providing a framework for civic education and engagement.\nB. By ensuring that power is divided and balanced, preventing any one branch from dominating.\nC. By allowing citizens to participate directly in the political process through elections and protests.\nD. By limiting the role of the federal government in favor of state and local authorities.",
+        "answer": "B"
+      }
+    ],
+    "score": 2,
+    "max_score": 5,
+    "percent": 40.0
+  },
+  {
+    "timestamp": "2025-10-28T07:42:44.977267",
+    "test_type": "MCQ",
+    "card_name": "Government",
+    "length": "15 min",
+    "responses": {
+      "1": "C",
+      "2": "B",
+      "3": "B",
+      "4": "D",
+      "5": "D",
+      "6": "D",
+      "7": "D"
+    },
+    "parsed_mcqs": [
+      {
+        "index": 1,
+        "display": "1. Which branch of government is responsible for interpreting the Constitution and is composed of the Supreme Court and lower federal courts?",
+        "options": {
+          "A": "Executive Branch.",
+          "B": "Legislative Branch.",
+          "C": "Judicial Branch.",
+          "D": "Senate."
+        },
+        "full_text": "1. Which branch of government is responsible for interpreting the Constitution and is composed of the Supreme Court and lower federal courts?\nA. Executive Branch.\nB. Legislative Branch.\nC. Judicial Branch.\nD. Senate.",
+        "answer": "C"
+      },
+      {
+        "index": 2,
+        "display": "2. The system of government outlined in the Constitution is composed of how many branches of government?",
+        "options": {
+          "A": "Two.",
+          "B": "Three.",
+          "C": "Four.",
+          "D": "Five."
+        },
+        "full_text": "2. The system of government outlined in the Constitution is composed of how many branches of government?\nA. Two.\nB. Three.\nC. Four.\nD. Five.",
+        "answer": "B"
+      },
+      {
+        "index": 3,
+        "display": "3. What is the primary difference between the House and the Senate in terms of representation?",
+        "options": {
+          "A": "The House represents the states equally, while the Senate represents the population.",
+          "B": "The House represents the population, while the Senate represents the states equally.",
+          "C": "The House is elected by the states, while the Senate is elected by the population.",
+          "D": "The House is composed of two representatives per state, while the Senate is composed of one representative per state."
+        },
+        "full_text": "3. What is the primary difference between the House and the Senate in terms of representation?\nA. The House represents the states equally, while the Senate represents the population.\nB. The House represents the population, while the Senate represents the states equally.\nC. The House is elected by the states, while the Senate is elected by the population.\nD. The House is composed of two representatives per state, while the Senate is composed of one representative per state.",
+        "answer": "B"
+      },
+      {
+        "index": 4,
+        "display": "4. In Federalist 10, what is the main argument made by James Madison regarding the effects of factions?",
+        "options": {
+          "A": "Factions are necessary for a healthy democracy.",
+          "B": "Factions can be controlled through the election of wise leaders.",
+          "C": "A large republic can better control the effects of factions.",
+          "D": "Factions are only a problem in small republics."
+        },
+        "full_text": "4. In Federalist 10, what is the main argument made by James Madison regarding the effects of factions?\nA. Factions are necessary for a healthy democracy.\nB. Factions can be controlled through the election of wise leaders.\nC. A large republic can better control the effects of factions.\nD. Factions are only a problem in small republics.",
+        "answer": "C"
+      },
+      {
+        "index": 5,
+        "display": "5. The Anti-Federalist paper Brutus 1 argues that the Constitution will lead to what outcome?",
+        "options": {
+          "A": "A stronger federal government and weaker state governments.",
+          "B": "A weaker federal government and stronger state governments.",
+          "C": "The abolition of the Senate and the House.",
+          "D": "The establishment of a monarchical system of government."
+        },
+        "full_text": "5. The Anti-Federalist paper Brutus 1 argues that the Constitution will lead to what outcome?\nA. A stronger federal government and weaker state governments.\nB. A weaker federal government and stronger state governments.\nC. The abolition of the Senate and the House.\nD. The establishment of a monarchical system of government.",
+        "answer": "A"
+      },
+      {
+        "index": 6,
+        "display": "6. Which of the following is NOT a branch of government outlined in the Constitution?",
+        "options": {
+          "A": "Executive Branch.",
+          "B": "Legislative Branch.",
+          "C": "Judicial Branch.",
+          "D": "Narrowcasting."
+        },
+        "full_text": "6. Which of the following is NOT a branch of government outlined in the Constitution?\nA. Executive Branch.\nB. Legislative Branch.\nC. Judicial Branch.\nD. Narrowcasting.",
+        "answer": "D"
+      },
+      {
+        "index": 7,
+        "display": "7. What is the primary role of the Legislative Branch, which is composed of the House and the Senate?",
+        "options": {
+          "A": "To interpret the Constitution.",
+          "B": "To enforce the laws.",
+          "C": "To make the laws.",
+          "D": "To elect the President."
+        },
+        "full_text": "7. What is the primary role of the Legislative Branch, which is composed of the House and the Senate?\nA. To interpret the Constitution.\nB. To enforce the laws.\nC. To make the laws.\nD. To elect the President.",
+        "answer": "C"
+      }
+    ],
+    "score": 4,
+    "max_score": 7,
+    "percent": 57.14
+  },
+  {
+    "timestamp": "2025-10-28T07:44:22.696261",
+    "test_type": "MCQ",
+    "card_name": "Government",
+    "length": "15 min",
+    "responses": {
+      "1": "C",
+      "2": "B",
+      "3": "C",
+      "4": "A",
+      "5": "A"
+    },
+    "parsed_mcqs": [
+      {
+        "index": 1,
+        "display": "1. Which branch of government is responsible for interpreting the constitution and is composed of the Supreme Court and other federal courts?",
+        "options": {
+          "A": "Executive Branch.",
+          "B": "Legislative Branch.",
+          "C": "Judicial Branch.",
+          "D": "Senate."
+        },
+        "full_text": "1. Which branch of government is responsible for interpreting the constitution and is composed of the Supreme Court and other federal courts?\nA. Executive Branch.\nB. Legislative Branch.\nC. Judicial Branch.\nD. Senate.",
+        "answer": "C"
+      },
+      {
+        "index": 2,
+        "display": "2. The system of government outlined in the Constitution is composed of how many branches of government?",
+        "options": {
+          "A": "Two.",
+          "B": "Three.",
+          "C": "Four.",
+          "D": "Five."
+        },
+        "full_text": "2. The system of government outlined in the Constitution is composed of how many branches of government?\nA. Two.\nB. Three.\nC. Four.\nD. Five.",
+        "answer": "B"
+      },
+      {
+        "index": 3,
+        "display": "3. What is the primary concern of the author of Brutus 1 regarding the Constitution?",
+        "options": {
+          "A": "The power of the Senate.",
+          "B": "The power of the Executive Branch.",
+          "C": "The potential for tyranny in the federal government.",
+          "D": "The role of the House."
+        },
+        "full_text": "3. What is the primary concern of the author of Brutus 1 regarding the Constitution?\nA. The power of the Senate.\nB. The power of the Executive Branch.\nC. The potential for tyranny in the federal government.\nD. The role of the House.",
+        "answer": "C"
+      },
+      {
+        "index": 4,
+        "display": "4. According to Federalist 10, what is the primary advantage of a large republic?",
+        "options": {
+          "A": "It allows for more efficient decision-making.",
+          "B": "It prevents the formation of factions.",
+          "C": "It provides for more direct representation.",
+          "D": "It allows for narrowcasting to specific interest groups."
+        },
+        "full_text": "4. According to Federalist 10, what is the primary advantage of a large republic?\nA. It allows for more efficient decision-making.\nB. It prevents the formation of factions.\nC. It provides for more direct representation.\nD. It allows for narrowcasting to specific interest groups.",
+        "answer": "B"
+      },
+      {
+        "index": 5,
+        "display": "5. Which of the following is an example of narrowcasting in the context of the branches of government?",
+        "options": {
+          "A": "A senator speaking to the entire nation.",
+          "B": "A representative speaking directly to their constituents.",
+          "C": "The Supreme Court issuing a ruling.",
+          "D": "The President addressing Congress."
+        },
+        "full_text": "5. Which of the following is an example of narrowcasting in the context of the branches of government?\nA. A senator speaking to the entire nation.\nB. A representative speaking directly to their constituents.\nC. The Supreme Court issuing a ruling.\nD. The President addressing Congress.",
+        "answer": "B"
+      }
+    ],
+    "score": 3,
+    "max_score": 5,
+    "percent": 60.0
+  },
+  {
+    "timestamp": "2025-10-28T07:46:29.252729",
+    "test_type": "MCQ",
+    "card_name": "Government",
+    "length": "15 min",
+    "responses": {
+      "1": "C",
+      "2": "B",
+      "3": "C",
+      "4": "B",
+      "5": "D",
+      "6": "C",
+      "7": "D"
+    },
+    "parsed_mcqs": [
+      {
+        "index": 1,
+        "display": "1. Which branch of government is responsible for interpreting the constitution and is composed of the Supreme Court and lower federal courts?",
+        "options": {
+          "A": "Executive Branch.",
+          "B": "Legislative Branch.",
+          "C": "Judicial Branch.",
+          "D": "Senate."
+        },
+        "full_text": "1. Which branch of government is responsible for interpreting the constitution and is composed of the Supreme Court and lower federal courts?\nA. Executive Branch.\nB. Legislative Branch.\nC. Judicial Branch.\nD. Senate.",
+        "answer": "C"
+      },
+      {
+        "index": 2,
+        "display": "2. The system of government outlined in the Constitution is composed of how many branches of government?",
+        "options": {
+          "A": "Two.",
+          "B": "Three.",
+          "C": "Four.",
+          "D": "Five."
+        },
+        "full_text": "2. The system of government outlined in the Constitution is composed of how many branches of government?\nA. Two.\nB. Three.\nC. Four.\nD. Five.",
+        "answer": "B"
+      },
+      {
+        "index": 3,
+        "display": "3. What is the primary concern of the author of Brutus 1 regarding the Constitution?",
+        "options": {
+          "A": "The power of the executive branch.",
+          "B": "The power of the legislative branch.",
+          "C": "The potential for tyranny in the federal government.",
+          "D": "The role of the house in lawmaking."
+        },
+        "full_text": "3. What is the primary concern of the author of Brutus 1 regarding the Constitution?\nA. The power of the executive branch.\nB. The power of the legislative branch.\nC. The potential for tyranny in the federal government.\nD. The role of the house in lawmaking.",
+        "answer": "C"
+      },
+      {
+        "index": 4,
+        "display": "4. According to Federalist 10, what is the primary advantage of a large republic?",
+        "options": {
+          "A": "It allows for more efficient decision-making.",
+          "B": "It prevents the formation of factions.",
+          "C": "It allows for more direct participation by citizens.",
+          "D": "It reduces the influence of special interest groups."
+        },
+        "full_text": "4. According to Federalist 10, what is the primary advantage of a large republic?\nA. It allows for more efficient decision-making.\nB. It prevents the formation of factions.\nC. It allows for more direct participation by citizens.\nD. It reduces the influence of special interest groups.",
+        "answer": "D"
+      },
+      {
+        "index": 5,
+        "display": "5. Which of the following is an example of narrowcasting in the context of the branches of government?",
+        "options": {
+          "A": "A senator speaking on the floor of the senate.",
+          "B": "A president addressing a joint session of Congress.",
+          "C": "A judge issuing a ruling in a specific court case.",
+          "D": "A representative sending targeted messages to their constituents."
+        },
+        "full_text": "5. Which of the following is an example of narrowcasting in the context of the branches of government?\nA. A senator speaking on the floor of the senate.\nB. A president addressing a joint session of Congress.\nC. A judge issuing a ruling in a specific court case.\nD. A representative sending targeted messages to their constituents.",
+        "answer": "D"
+      },
+      {
+        "index": 6,
+        "display": "6. What is the primary function of the legislative branch, which includes both the house and the senate?",
+        "options": {
+          "A": "To enforce the laws.",
+          "B": "To interpret the laws.",
+          "C": "To make the laws.",
+          "D": "To appoint federal officials."
+        },
+        "full_text": "6. What is the primary function of the legislative branch, which includes both the house and the senate?\nA. To enforce the laws.\nB. To interpret the laws.\nC. To make the laws.\nD. To appoint federal officials.",
+        "answer": "C"
+      },
+      {
+        "index": 7,
+        "display": "7. The concept of checks and balances is designed to prevent any one branch of government from becoming too powerful, as outlined in the Constitution and discussed in Federalist 10 and Brutus 1.",
+        "options": {
+          "A": "Executive branch has the most power.",
+          "B": "Legislative branch has the most power.",
+          "C": "Judicial branch has the most power.",
+          "D": "Each branch has equal power and can limit the others."
+        },
+        "full_text": "7. The concept of checks and balances is designed to prevent any one branch of government from becoming too powerful, as outlined in the Constitution and discussed in Federalist 10 and Brutus 1.\nA. Executive branch has the most power.\nB. Legislative branch has the most power.\nC. Judicial branch has the most power.\nD. Each branch has equal power and can limit the others.",
+        "answer": "D"
+      }
+    ],
+    "score": 6,
+    "max_score": 7,
+    "percent": 85.71
+  },
+  {
+    "timestamp": "2025-10-29T00:23:26.353657",
+    "test_type": "MCQ",
+    "card_name": "Gov - Unit 2",
+    "length": "15 min",
+    "responses": {
+      "1": "B",
+      "2": "A",
+      "3": "B",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "D",
+      "8": "A",
+      "9": "A",
+      "10": "D"
+    },
+    "parsed_mcqs": [
+      {
+        "index": 1,
+        "display": "1. Which branch of government is headed by the President and has the power to issue an executive order?",
+        "options": {
+          "A": "Legislative Branch",
+          "B": "Executive Branch",
+          "C": "Judicial Branch",
+          "D": "Bureaucracy"
+        },
+        "full_text": "1. Which branch of government is headed by the President and has the power to issue an executive order?\nA. Legislative Branch\nB. Executive Branch\nC. Judicial Branch\nD. Bureaucracy",
+        "answer": "B"
+      },
+      {
+        "index": 2,
+        "display": "2. What is the term for a legislative tactic in which a senator prolongs debate on a bill in an attempt to delay or block its passage?",
+        "options": {
+          "A": "Filibuster",
+          "B": "Veto",
+          "C": "Logrolling",
+          "D": "Pork-barrel legislation"
+        },
+        "full_text": "2. What is the term for a legislative tactic in which a senator prolongs debate on a bill in an attempt to delay or block its passage?\nA. Filibuster\nB. Veto\nC. Logrolling\nD. Pork-barrel legislation",
+        "answer": "A"
+      },
+      {
+        "index": 3,
+        "display": "3. The system of government in which power is divided between two chambers, such as the House of Representatives and the Senate, is known as a:",
+        "options": {
+          "A": "Unicameral system",
+          "B": "Bicameral system",
+          "C": "Judicial system",
+          "D": "Executive system"
+        },
+        "full_text": "3. The system of government in which power is divided between two chambers, such as the House of Representatives and the Senate, is known as a:\nA. Unicameral system\nB. Bicameral system\nC. Judicial system\nD. Executive system",
+        "answer": "B"
+      },
+      {
+        "index": 4,
+        "display": "4. The principle that guides the Judicial Branch to follow the decisions of previous cases is known as:",
+        "options": {
+          "A": "Stare decisis",
+          "B": "Veto power",
+          "C": "Executive order",
+          "D": "Logrolling"
+        },
+        "full_text": "4. The principle that guides the Judicial Branch to follow the decisions of previous cases is known as:\nA. Stare decisis\nB. Veto power\nC. Executive order\nD. Logrolling",
+        "answer": "A"
+      },
+      {
+        "index": 5,
+        "display": "5. Which of the following is an example of a power held by the Legislative Branch?",
+        "options": {
+          "A": "Issuing executive orders",
+          "B": "Appointing federal judges",
+          "C": "Overriding a veto",
+          "D": "Declaring war"
+        },
+        "full_text": "5. Which of the following is an example of a power held by the Legislative Branch?\nA. Issuing executive orders\nB. Appointing federal judges\nC. Overriding a veto\nD. Declaring war",
+        "answer": "C"
+      },
+      {
+        "index": 6,
+        "display": "6. The process of trading votes on different bills in order to gain support for one's own bill is known as:",
+        "options": {
+          "A": "Logrolling",
+          "B": "Pork-barrel legislation",
+          "C": "Filibuster",
+          "D": "Stare decisis"
+        },
+        "full_text": "6. The process of trading votes on different bills in order to gain support for one's own bill is known as:\nA. Logrolling\nB. Pork-barrel legislation\nC. Filibuster\nD. Stare decisis",
+        "answer": "A"
+      },
+      {
+        "index": 7,
+        "display": "7. The Supreme Court is part of which branch of government?",
+        "options": {
+          "A": "Executive Branch",
+          "B": "Legislative Branch",
+          "C": "Judicial Branch",
+          "D": "Bureaucracy"
+        },
+        "full_text": "7. The Supreme Court is part of which branch of government?\nA. Executive Branch\nB. Legislative Branch\nC. Judicial Branch\nD. Bureaucracy",
+        "answer": "C"
+      },
+      {
+        "index": 8,
+        "display": "8. A bill that includes funding for a specific project or program that benefits a particular district or state is an example of:",
+        "options": {
+          "A": "Pork-barrel legislation",
+          "B": "Logrolling",
+          "C": "Filibuster",
+          "D": "Executive order"
+        },
+        "full_text": "8. A bill that includes funding for a specific project or program that benefits a particular district or state is an example of:\nA. Pork-barrel legislation\nB. Logrolling\nC. Filibuster\nD. Executive order",
+        "answer": "A"
+      },
+      {
+        "index": 9,
+        "display": "9. The power to reject a bill passed by the Legislative Branch is known as a:",
+        "options": {
+          "A": "Veto",
+          "B": "Filibuster",
+          "C": "Executive order",
+          "D": "Stare decisis"
+        },
+        "full_text": "9. The power to reject a bill passed by the Legislative Branch is known as a:\nA. Veto\nB. Filibuster\nC. Executive order\nD. Stare decisis",
+        "answer": "A"
+      },
+      {
+        "index": 10,
+        "display": "10. The system of agencies and departments that carry out the day-to-day work of the government is known as the:",
+        "options": {
+          "A": "Executive Branch",
+          "B": "Legislative Branch",
+          "C": "Judicial Branch",
+          "D": "Bureaucracy"
+        },
+        "full_text": "10. The system of agencies and departments that carry out the day-to-day work of the government is known as the:\nA. Executive Branch\nB. Legislative Branch\nC. Judicial Branch\nD. Bureaucracy",
+        "answer": "D"
+      }
+    ],
+    "score": 8,
+    "max_score": 10,
+    "percent": 80.0
+  }
+]
